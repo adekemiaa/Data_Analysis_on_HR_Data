@@ -30,6 +30,10 @@ The first phase performed on this data is
    - promote the header
    - added additional column where necessary and
    - also changed the data type of some columns to correct format.
+     
+![hr transform](https://github.com/user-attachments/assets/8c201e7f-848a-42d7-89f1-e04ee5b129e2)
+
+
 
 ### Exploratory Data Analysis
 ---
@@ -48,7 +52,12 @@ Data such as;
 ---
 This is where some DAX expression and visuals gotten is shown,
 
-#### For total number of employees
+![HR data](https://github.com/user-attachments/assets/232c1e54-7e1d-43e6-bf77-1793e496c4a2)
+
+![Hr data 2](https://github.com/user-attachments/assets/8498b587-ff68-405e-adb5-661327b88e43)
+
+
+
 
 
 
