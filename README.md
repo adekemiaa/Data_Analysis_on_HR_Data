@@ -18,4 +18,37 @@ Majorly, the tool used for this analysis is Microsoft Power BI for;
 - Data Cleaning
 - Data Analysis and,
 - Data Visualization
+##### [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
+### Data Cleaning and preparations
+---
+The first phase performed on this data is 
+1. Exporting of the excel file containinng the data into the Power Bi,
+2. Then, Data cleaning phase to transform the data by
+   - removing all the blanks rows
+   - delete the empty columns
+   - promote the header
+   - added additional column where necessary and
+   - also changed the data type of some columns to correct format.
+
+### Exploratory Data Analysis
+---
+EDA involves the exploring of the Data to answer some questions about the 
+Data such as;
+- What is the total number of employees?
+- What is the total number of attrition count?
+- What is the total number of attrition count in each department
+- What is the total number of attrition count per educational field
+- What is the total number of attrition count by age band
+- What is the sum of attrition count by gender?
+- What is the total number of current employees?
+- What is the total number of current employees by gender and marital status?
+
+### Data Visualization
+---
+This is where some DAX expression and visuals gotten is shown,
+
+#### For total number of employees
+
+
 
